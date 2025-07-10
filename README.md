@@ -39,6 +39,21 @@ The ALU supports 8 operations based on a 3-bit `SEL` input:
 
 ---
 
+## 🖥️ Simulation Output
+
+Here is a snapshot of the terminal output after running the testbench:
+
+![Simulation Output](output.png)
+
+---
+
+## 📊 Waveform
+
+The waveform below shows how the ALU responds to different operations:
+
+![Waveform](waveform.png)
+
+
 ## 🌐 EDA Playground Simulation
 
 You can view and run the simulation online here:  
