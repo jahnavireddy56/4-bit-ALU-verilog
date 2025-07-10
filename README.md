@@ -58,7 +58,6 @@ The waveform below shows how the ALU responds to different operations:
 
 You can view and run the simulation online here:  
 🔗 [Run on EDA Playground](https://edaplayground.com/x/9FDf)  
-*(Replace this with your actual saved link)*
 
 ---
 
@@ -66,7 +65,7 @@ You can view and run the simulation online here:
 
 **Jahnavi Reddy Saddala**  
 B.Tech Student – EEE  
-Interested in Digital Design and VLSI Frontend  
+Interested in Digital Design and verification in VLSI Frontend  
 📫 [jahnavireddy56@gmail.com](mailto:jahnavireddy56@gmail.com)
 
 ---
